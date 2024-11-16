@@ -1,6 +1,6 @@
 # JSON List
 
-[![JSON List Screenshot](https://github.com/vadym4che/json-list/blob/main/screenshot.png)](https://vadym4che.github.io/json-list/)
+[![JSON List Screenshot](https://github.com/1abcdesign/json-list/blob/main/screenshot.png)](https://1abcdesign.github.io/json-list/)
 
 JSON List is a simple web application that fetches JSON data from the [JSONPlaceholder](https://jsonplaceholder.typicode.com/) API and displays it in a structured list format. This project demonstrates how to fetch and display JSON data using HTML, CSS, and JavaScript.
 
@@ -18,13 +18,13 @@ JSON List provides the following features:
 - Display the fetched JSON data in a nested list format.
 - Apply simple CSS styles to format and structure the content.
 
-You can try out the live demo [here](https://vadym4che.github.io/json-list/).
+You can try out the live demo [here](https://1abcdesign.github.io/json-list/).
 
 The application fetches data from the JSONPlaceholder API and organizes it into a nested HTML list, creating a clear and structured representation of the JSON data.
 
 ## Usage
 
-1. Open the [live demo](https://vadym4che.github.io/json-list/).
+1. Open the [live demo](https://1abcdesign.github.io/json-list/).
 2. Observe the fetched JSON data displayed in a structured list format.
 3. The list is organized hierarchically with each level represented by different CSS styles.
 
